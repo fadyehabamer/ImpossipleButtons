@@ -1,2 +1,2 @@
-# Custom-Radio-button
- Using Css3 / JS
+# Impossible Buttons
+> Can not Make 3 buttons on at the same time
